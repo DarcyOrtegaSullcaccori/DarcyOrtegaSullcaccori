@@ -106,6 +106,8 @@ Sistema de **visión por computadora clásica**, sin redes neuronales, que detec
 
 <div align="center">
 
+<img src="assets/blackjack/conteo-hilo.png" width="75%" alt="Conteo Hi-Lo: detección de cartas y conteo en tiempo real">
+
 <a href="https://github.com/DarcyOrtegaSullcaccori/PC1-Computacion-Grafica-2026-2"><img src="https://img.shields.io/badge/Ver_repositorio-Blackjack_Hi--Lo-7c3aed?style=for-the-badge&logo=github" alt="Repositorio Blackjack"></a>
 
 </div>
